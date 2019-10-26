@@ -13,4 +13,8 @@ ALPHA - 8,9,10,11,12,13,14,15
 Add Colors
 Add IGNs on join
 
+# What it does
+
+It prints "JoinMessage enabled" into the console when the server starts.
+
 # FirstPlugin
